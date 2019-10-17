@@ -1,0 +1,7 @@
+{
+  "name": "NODE EXPRESS API WITH MONGODB Atlas",
+  "description": "This is a small application with CRUD and authentication using JWT and other things",
+  "repository": "https://github.com/cgqspider/NodeExpress-Api-App-Academind-.git",
+  "logo": "https://colorlib.com/wp/wp-content/uploads/sites/2/nodejs-frameworks.png",
+  "keywords": ["node", "express", "static"]
+}
